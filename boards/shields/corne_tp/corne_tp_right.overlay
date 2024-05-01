@@ -17,7 +17,7 @@
 &kscan0 {
     col-gpios
         = <&gpio1 11 GIPO_ACTIVE_HIGH>
-        , <&gpio1 07 GIPO_ACTIVE_HIGH>
+        , <&gpio1 02 GIPO_ACTIVE_HIGH>
         , <&gpio1 15 GIPO_ACTIVE_HIGH>
         , <&gpio0 02 GIPO_ACTIVE_HIGH>
         , <&gpio0 29 GIPO_ACTIVE_HIGH>
